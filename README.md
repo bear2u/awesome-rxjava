@@ -6,6 +6,9 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
+## Basic
+* [ReactiveX](http://reactivex.io/)- [[Eng]](http://reactivex.io/documentation/operators.html)[[kor]](http://reactivex.io/documentation/ko/operators.html)
+
 ## Bindings
 
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings for RxJava.
@@ -56,6 +59,10 @@ String and Byte operators for RxJava.
 * [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 * [RxJava - The Problem with Subjects](http://tomstechnicalblog.blogspot.co.uk/2016/03/rxjava-problem-with-subjects.html) - Thomas Nield explains why `Subject` is not a panacea.
 * [Using RxJava Observable's Completion Semantics for Greater Good](https://adelnizamutdinov.github.io/blog/2015/01/23/using-rxjavas-observable-semantics-for-greater-good/) - Adel Nizamutdinov talks about `Observable`’s completion semantics and `Subscriber.add(Subscription)` method.
+* [RxJava Operator - Map Vs FlatMap](https://medium.com/mindorks/rxjava-operator-map-vs-flatmap-427c09678784) -  Rxjava map & flatMap
+
+## Android weekly
+* [Riddling your way to master RxJava](https://medium.com/@vanniktech/riddling-your-way-to-master-rxjava-145d5de99b55) - To Help us to learn Rxjava with riddles
 
 ## Tools
 
